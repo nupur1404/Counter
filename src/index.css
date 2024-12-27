@@ -1,0 +1,36 @@
+*{
+  margin: 0 auto;
+  padding: 0 auto;
+  box-sizing: border-box;
+}
+
+.counter{
+  height: 300px;
+  width: 400px;
+  background-color: #88ab33;
+  text-align: center;
+  margin-top: 100px;
+  box-sizing: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px gray;
+}
+h1{
+  font-size: 2.9rem;
+}
+
+.display{
+  display: flex;
+  margin-top: 80px;
+}
+button{
+  height: 50px;
+  width: 100px;
+  font-size: 1.9rem;
+}
+.reset{
+  margin-top: 30px;
+  height: 50px;
+  width: 100px;
+  font-size: 1.2rem;
+  background-color: yellow;
+}
